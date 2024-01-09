@@ -1,17 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.javatutorial;
 
 import java.util.Scanner;
 
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
 /**
  *
- * @author Alex-PC
+ * @author HP
  */
-public class JavaTutorial {
-
+public class InputVariable {
+    
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
@@ -28,5 +28,5 @@ public class JavaTutorial {
         System.out.println("You are " + age + " years old");
         System.out.println("You like " + food);
         
-    }
+    }      
 }
